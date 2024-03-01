@@ -1,4 +1,4 @@
-# Global-Superstore-Dashboard
+# Global-Superstore-Dashboard by using Tableau 
 Data visualization on Global superstore datasets by using Tableau Desktop. Before visualizing this project I created two column for
 1. total profit (Profit * Quantity) and
 2. Delivery time (Shipping date - Order date)
